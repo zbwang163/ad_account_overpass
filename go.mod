@@ -1,4 +1,4 @@
-module github.com/zbwang163/ad_info_account_rpc
+module github.com/zbwang163/ad_account_overpass
 
 go 1.16
 
