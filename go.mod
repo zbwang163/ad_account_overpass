@@ -1,4 +1,4 @@
-module ad.info.com/rpc/ad_info_account_rpc
+module github.com/zbwang163/ad_info_account_rpc
 
 go 1.16
 
